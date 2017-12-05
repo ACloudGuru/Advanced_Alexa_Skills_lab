@@ -1,3 +1,8 @@
+.DS_Store
+.eslintrc
+lambda.zip
+node_modules
+
 # Logs
 logs
 *.log

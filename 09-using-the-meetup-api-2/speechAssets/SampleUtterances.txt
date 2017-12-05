@@ -1,0 +1,28 @@
+AlexaMeetupNumbers how many cities have alexa meetups
+AlexaMeetupNumbers how many alexa meetups are there
+
+AlexaMeetupCityCheck if {USCity} has an alexa meetup
+AlexaMeetupCityCheck if {EuropeanCity} has an alexa meetup
+AlexaMeetupCityCheck does {USCity} have an alexa meetup
+AlexaMeetupCityCheck does {EuropeanCity} have an alexa meetup
+AlexaMeetupCityCheck check {USCity}
+AlexaMeetupCityCheck check {EuropeanCity}
+
+AlexaMeetupOrganiserCheck whos the organiser of the {USCity} alexa meetup
+AlexaMeetupOrganiserCheck whos the organiser of the {EuropeanCity} alexa meetup
+AlexaMeetupOrganiserCheck who is the organiser of the {USCity} alexa meetup
+AlexaMeetupOrganiserCheck who is the organiser of the {EuropeanCity} alexa meetup
+AlexaMeetupOrganiserCheck tell me the organiser of the {USCity} alexa meetup
+AlexaMeetupOrganiserCheck tell me the organiser of the {EuropeanCity} alexa meetup
+
+AlexaMeetupMembersCheck how many members does the {USCity} alexa meetup have
+AlexaMeetupMembersCheck how many members does the {EuropeanCity} alexa meetup have
+AlexaMeetupMembersCheck how many people does the {USCity} alexa meetup have
+AlexaMeetupMembersCheck how many people does the {EuropeanCity} alexa meetup have
+AlexaMeetupMembersCheck how big is the {USCity} alexa meetup
+AlexaMeetupMembersCheck how big is the {EuropeanCity} alexa meetup
+
+AlexaNextMeetupCheck whens the next {USCity} alexa meetup
+AlexaNextMeetupCheck whens the next {EuropeanCity} alexa meetup
+AlexaNextMeetupCheck when is the next {USCity} alexa meetup
+AlexaNextMeetupCheck when is the next {EuropeanCity} alexa meetup

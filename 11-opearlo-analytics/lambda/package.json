@@ -1,0 +1,9 @@
+{
+  "author": "MerryOscar",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "opearlo-analytics": "^0.1.7",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}

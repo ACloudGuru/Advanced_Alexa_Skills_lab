@@ -1,0 +1,21 @@
+NameCapture my name is {USFirstName}
+NameCapture my name is {UKFirstName}
+
+CountryCapture im from {Country}
+
+AlexaMeetupNumbers how many cities have alexa meetups
+AlexaMeetupNumbers how many alexa meetups are there
+
+AlexaMeetupCityCheck if {USCity} has an alexa meetup
+AlexaMeetupCityCheck if {EuropeanCity} has an alexa meetup
+AlexaMeetupCityCheck does {USCity} have an alexa meetup
+AlexaMeetupCityCheck does {EuropeanCity} have an alexa meetup
+AlexaMeetupCityCheck check {USCity}
+AlexaMeetupCityCheck check {EuropeanCity}
+
+AlexaMeetupOrganiserCheck whos the organiser of the {USCity} alexa meetup
+AlexaMeetupOrganiserCheck whos the organiser of the {EuropeanCity} alexa meetup
+AlexaMeetupOrganiserCheck who is the organiser of the {USCity} alexa meetup
+AlexaMeetupOrganiserCheck who is the organiser of the {EuropeanCity} alexa meetup
+AlexaMeetupOrganiserCheck tell me the organiser of the {USCity} alexa meetup
+AlexaMeetupOrganiserCheck tell me the organiser of the {EuropeanCity} alexa meetup

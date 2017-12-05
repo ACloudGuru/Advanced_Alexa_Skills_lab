@@ -1,0 +1,40 @@
+AlexaMeetupNumbers	Wie viele Städte haben Alexa meetups
+AlexaMeetupNumbers	Wie viele Alexa meetups sind dort
+
+AlexaMeetupCityCheck	Wenn {USCity} ein Alexa meetup hat
+AlexaMeetupCityCheck	Wenn {EuropeanCity} ein Alexa meetup hat
+AlexaMeetupCityCheck	Hat {USCity} ein Alexa meetup
+AlexaMeetupCityCheck	Hat {EuropeanCity} ein Alexa meetup
+AlexaMeetupCityCheck	Überprüfe {USCity}
+AlexaMeetupCityCheck	Überprüfe {EuropeanCity}
+
+AlexaMeetupOrganiserCheck	Wer ist der Veranstalter des Alexa meetups in {USCity}
+AlexaMeetupOrganiserCheck	Wer ist der Veranstalter des Alexa meetups in {EuropeanCity} 
+AlexaMeetupOrganiserCheck	Sag mir wer ist der  ist der Veranstalter des Alexa meetups in {USCity}
+AlexaMeetupOrganiserCheck	Sag mir wer ist der  ist der Veranstalter des Alexa meetups in {EuropeanCity}
+
+AlexaMeetupMembersCheck	Wie viele Mitglieder hat das Alexa meetup in {USCity}
+AlexaMeetupMembersCheck	Wie viele Mitglieder hat das Alexa meetup in {EuropeanCity}
+AlexaMeetupMembersCheck	Wie viele Leute hat das Alexa meetup in {USCity}
+AlexaMeetupMembersCheck	Wie viele Leute hat das Alexa meetup in {EuropeanCity}
+AlexaMeetupMembersCheck	Wie groß ist das Alexa meetup in {USCity}
+AlexaMeetupMembersCheck	Wie groß ist das Alexa meetup in {EuropeanCity}
+
+AlexaNextMeetupCheck	Wann ist das nächste Alexa meetup in {USCity}
+AlexaNextMeetupCheck	Wann ist das nächste Alexa meetup in {EuropeanCity}
+
+PlayPodcast	Spiele den nächsten Alexa Dev Chat Podcast ab
+PlayPodcast	Abspielen des nächsten Alexa Dev Postcasts
+PlayPodcast	Spiele den Alexa Dev Chat Podcast ab
+PlayPodcast	Abspielen des Alexa Dev Chat Postcasts
+PlayPodcast	Spiele den Podcast ab
+PlayPodcast	Abspielen des Podcasts
+PlayPodcast	Spiele die Episode {Episode} des Alexa Dev Podcasts ab
+PlayPodcast	Abspielen der Episode  {Episode} des Alexa Dev Podcasts
+PlayPodcast	Spiele die Episode {Episode} des Alexa Podcasts ab
+PlayPodcast	Abspielen der Episode {Episode} des Alexa Podcasts
+PlayPodcast	Spiele die Episode {Episode} des Podcasts ab
+PlayPodcast	Abspielen der Episode {Episode} des Podcasts
+PlayPodcast	Spiele den Podcast ab
+PlayPodcast	Abspielen des Podcasts
+PlayPodcast	Spiele die Episode {Episode} ab
